@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <main className={inter.className}>
       <Head>
-        <meta name="google-site-verification" content="TU_CODIGO_DE_GOOGLE_AQUI" />
+        <meta name="google-site-verification" content="WWiasA5Etmr4fZ0XUFkVerMKV4Cb8373MC2VV2gfXnk" />
       </Head>
       <Component {...pageProps} />
     </main>
